@@ -1,0 +1,55 @@
+Domain:facebook.com
+Registrar:RegistrarSafe, LLC
+Registered On:1997-03-29
+Expires On:2031-03-30
+Name:Domain Admin
+Organization:Meta Platforms, Inc.
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+
+Domain:reddit.com
+Registrar:MarkMonitor Inc.
+Registered On:2005-04-29
+Expires On:2022-04-29
+Organization:Reddit Inc.
+State:CA
+Country:US
+
+Domain:instagram.com
+Registrar:RegistrarSafe, LLC
+Registered On:2004-06-04
+Expires On:2031-06-04
+Name:Domain Admin
+Organization:Instagram LLC
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+
+Domain:twitch.tv
+Registrar:MarkMonitor Inc.
+Registered On:2009-06-08
+Expires On:2024-06-08
+Name:Twitch Hostmaster
+Organization:Twitch Interactive, Inc.
+Street:225 Bush Street, 6th Floor,
+City:San Francisco
+State:CA
+Postal Code:94104
+Country:US
+
+Domain:twitter.com
+Registrar:CSC Corporate Domains, Inc.
+Registered On:2000-01-21
+Expires On:2023-01-21
+Name:Twitter, Inc.
+Organization:Twitter, Inc.
+Street:1355 Market Street
+City:San Francisco
+State:CA
+Postal Code:94103
+Country:US
